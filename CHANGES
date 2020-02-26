@@ -1,1 +1,2 @@
-- Initial release
+• Fixed a bug which allow the player to spam Remove/Add the bag till he get the weight without the wearing the bag.
+• Added Self-Bag check (no need to tigger the CheckBag event in any external resrouce), to Sync the weight if the play joined with the bag on him.

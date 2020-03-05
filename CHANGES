@@ -1,3 +1,4 @@
-• Fixed update checker.
-• Added Config toggle to enable/disable Update checker, for those who don't want to add anything in the console.
-• Changed Version from X.X.X to X.X
+    • You can translate the resource with the language you want.
+    • Added an option to edit the Align of the menu in the Config.
+    • The resource now get the Weight automatically, No need to worry about calculations now.
+    • Edited the way of "OUT-DATED" message when Update pushed.

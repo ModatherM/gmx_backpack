@@ -1,1 +1,1 @@
-• Initial release
+• (FIX) If CreateBlip was false, the blip was still there.

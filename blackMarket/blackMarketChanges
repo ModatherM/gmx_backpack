@@ -1,3 +1,4 @@
-• (Added) IPLock, You will need to provide me E-MAIL/OrderID/ServerIP in order to get whitelisted.
-• (Added) Option to change the Dog and Ped hash!
-• (IMPROVED) The dog attack is now stronger lol.
+• (Added) FontID for the DogName and PedName.
+• (Added) Config Option for black_money/money/bank.
+• (Added) Custom ESX Trigger Option.
+• (OPTIMIZE) The script now takes 0.01ms if you are not around the bot!

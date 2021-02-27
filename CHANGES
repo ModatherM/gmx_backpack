@@ -1,3 +1,1 @@
-• Added Debug message for both Server Side and Client Side, if Bag = nil, or the ESX.GetConfig.Weight return nil.
-• The bag should now give you the weight after 10-15 secs. from joining.
-• More optimization implemented.
+• Added ESX Trigger to config
